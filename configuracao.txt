@@ -1,1 +1,2 @@
 configure agora
+configure agora 2x
